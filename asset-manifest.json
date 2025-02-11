@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/map_vs_sphere/static/css/main.4798c0c7.css",
+    "main.js": "/map_vs_sphere/static/js/main.86c4188f.js",
+    "index.html": "/map_vs_sphere/index.html",
+    "main.4798c0c7.css.map": "/map_vs_sphere/static/css/main.4798c0c7.css.map",
+    "main.86c4188f.js.map": "/map_vs_sphere/static/js/main.86c4188f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4798c0c7.css",
+    "static/js/main.86c4188f.js"
+  ]
+}
